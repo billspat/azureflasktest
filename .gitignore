@@ -1,0 +1,13 @@
+.env
+*.json
+__pycache__/*   
+
+*.py[cod]
+*$py.class
+
+# Editors
+.vscode/
+.idea/
+
+# Mac/OSX
+.DS_Store
